@@ -1,10 +1,19 @@
 <div align="center">
 
-# Syed Mohsin Kazmi
+<!-- Animated Banner Style Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:2496ED,100:326CE5&height=200&section=header&text=Syed%20Mohsin%20Kazmi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automation&descAlignY=58&descSize=18&descColor=c9d1d9" />
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+Engineer;CI%2FCD+Pipeline+Architect;Cloud+%26+Container+Specialist;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Building+Scalable+%26+Secure+Systems)
+
+<br/>
 
 ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00A36C?style=for-the-badge&logo=handshake&logoColor=white)
 ![Pakistan](https://img.shields.io/badge/Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
 
 </div>
 
@@ -164,27 +173,20 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Engr-Mohsin-Kazmi&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 <img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engr-Mohsin-Kazmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Engr-Mohsin-Kazmi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
 
 ---
 
@@ -200,6 +202,4 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Syed%20Mohsin%20Kazmi-Engr--Mohsin--Kazmi-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,50:2496ED,100:0A66C2&height=100&section=footer" />
