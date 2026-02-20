@@ -31,13 +31,16 @@ Edu Qual UK | 1st June 2024 – 20th August 2025
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ## 🔭 Currently Working On
 
-Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines — focusing on scalability, security, and zero-downtime deployments.
+Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines focusing on scalability, security, and zero-downtime deployments.
+
+🌱 **Currently upskilling in:** Terraform, Ansible, Kubernetes, and other major DevOps tools to deepen expertise in infrastructure automation and container orchestration.
 
 ---
 
