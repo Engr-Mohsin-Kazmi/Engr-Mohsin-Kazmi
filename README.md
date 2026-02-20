@@ -1,52 +1,77 @@
-# Hi there, I'm Syed Mohsin Kazmi 👋
+<div align="center">
 
-## 🚀 DevOps Engineer
+# Syed Mohsin Kazmi
+
+![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-0A66C2?style=for-the-badge&logo=icloud&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00A36C?style=for-the-badge&logo=handshake&logoColor=white)
+![Pakistan](https://img.shields.io/badge/Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
 
 I'm a passionate DevOps Engineer specializing in containerization, CI/CD automation, cloud infrastructure, and scalable system design. I love bridging the gap between development and operations through clean automation and modern DevOps practices.
 
 ---
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/EDUCATION-1e293b?style=for-the-badge&logo=mortarboard&logoColor=white" />
 
 **Higher Level Diploma in Artificial Intelligence for IT Operations**
 Edu Qual UK | 1st June 2024 – 20th August 2025
 
 ---
 
-## 📜 Certifications
+<img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logo=ribbon&logoColor=white" />
 
-- **Diploma in DevOps and Cloud Advancement** - AL NAFI International College
-- **Diploma in SysOps and Cloud Advancement** - AL NAFI International College
+![AL NAFI](https://img.shields.io/badge/Diploma%20in%20DevOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-2496ED?style=flat-square&logo=icloud&logoColor=white)
+
+![AL NAFI](https://img.shields.io/badge/Diploma%20in%20SysOps%20%26%20Cloud%20Advancement-AL%20NAFI%20International%20College-326CE5?style=flat-square&logo=serverless&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
+<img src="https://img.shields.io/badge/TECH%20STACK-0F172A?style=for-the-badge&logo=stackshare&logoColor=white" />
+
+**Operating Systems & Shell**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Version Control**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Containers & Orchestration**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Cloud Platforms**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**CI/CD & Automation**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Web & Networking**
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 🔭 Currently Working On
+<img src="https://img.shields.io/badge/CURRENTLY%20WORKING%20ON-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" />
 
-Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines focusing on scalability, security, and zero-downtime deployments.
+Building and automating cloud-native infrastructure with Docker, Kubernetes, and CI/CD pipelines — focusing on scalability, security, and zero-downtime deployments.
 
-🌱 **Currently upskilling in:** Terraform, Ansible, Kubernetes, and other major DevOps tools to deepen expertise in infrastructure automation and container orchestration.
+![Upskilling](https://img.shields.io/badge/Upskilling%20In-Terraform%20%7C%20Ansible%20%7C%20Kubernetes%20%7C%20Major%20DevOps%20Tools-F59E0B?style=flat-square&logo=bookstack&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-10B981?style=for-the-badge&logo=github&logoColor=white" />
 
-### 🤖 AI Powered Web Application Deployment
+### ![Project](https://img.shields.io/badge/01-AI%20Powered%20Web%20Application%20Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **Technologies:** Docker, Docker Compose, Linux, Nginx, Git, Cloud VM
 
 A production-grade deployment of an AI-powered web application on cloud infrastructure.
@@ -59,7 +84,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### 📦 Full Stack Application Containerization and Local Orchestration
+### ![Project](https://img.shields.io/badge/02-Full%20Stack%20App%20Containerization%20%26%20Local%20Orchestration-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **Technologies:** Docker, Docker Compose, Node.js, Python, Linux
 
 - Designed container strategy for multi-service architecture
@@ -71,7 +97,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### 🔒 Secure Linux Server Deployment and Access Management
+### ![Project](https://img.shields.io/badge/03-Secure%20Linux%20Server%20Deployment%20%26%20Access%20Management-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 **Technologies:** Ubuntu Server, SSH, User Management, Firewall
 
 - Configured production Linux server for application hosting
@@ -83,7 +110,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### ⚙️ CI/CD Pipeline Implementation
+### ![Project](https://img.shields.io/badge/04-CI%2FCD%20Pipeline%20Implementation-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 **Technologies:** Git, GitHub, CI/CD Tools, Linux
 
 - Designed automated CI/CD workflow for application deployment
@@ -95,7 +123,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### 📊 Production Monitoring and Debugging
+### ![Project](https://img.shields.io/badge/05-Production%20Monitoring%20%26%20Debugging-009639?style=flat-square&logo=grafana&logoColor=white)
+
 **Technologies:** Docker Logs, Linux Monitoring Tools
 
 - Diagnosed container startup failures and networking issues
@@ -106,7 +135,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### ☁️ Cloud Based Application Deployment
+### ![Project](https://img.shields.io/badge/06-Cloud%20Based%20Application%20Deployment-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
 **Technologies:** Cloud VM, Docker, Nginx, Linux
 
 - Deployed multi-service web application on cloud infrastructure
@@ -117,7 +147,8 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-### 🏗️ Infrastructure Planning for Scalable Systems
+### ![Project](https://img.shields.io/badge/07-Infrastructure%20Planning%20for%20Scalable%20Systems-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 **Technologies:** Cloud Architecture, Load Balancing Concepts
 
 - Designed scalable deployment architecture for high-traffic applications
@@ -127,7 +158,13 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-## 🏆 GitHub Trophies
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-F59E0B?style=for-the-badge&logo=trophy&logoColor=white" />
+
+![Gold Medal](https://img.shields.io/badge/Presidential%20Gold%20Medalist%202023-Pakistan%20Boy%20Scouts%20Association-FFD700?style=for-the-badge&logo=medal&logoColor=black)
+
+---
+
+<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Engr-Mohsin-Kazmi&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -135,7 +172,7 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -151,12 +188,18 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-## 📫 Let's Connect
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<p align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmohsin9201@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmohsinkazmi/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923109294201)
 
+</p>
+
 ---
 
-⭐️ From [Syed Mohsin Kazmi](https://github.com/Engr-Mohsin-Kazmi)
+<p align="center">
+  <img src="https://img.shields.io/badge/Syed%20Mohsin%20Kazmi-Engr--Mohsin--Kazmi-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
