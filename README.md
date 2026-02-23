@@ -173,7 +173,6 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 
 ---
 
-<img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 <div align="center">
 
