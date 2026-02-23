@@ -174,9 +174,7 @@ A production-grade deployment of an AI-powered web application on cloud infrastr
 ---
 
 <img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Engr-Mohsin-Kazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Mohsin-Kazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
