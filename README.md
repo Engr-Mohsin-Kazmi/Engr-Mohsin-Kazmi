@@ -17,7 +17,7 @@
 
 </div>
 
-I'm a passionate DevOps Engineer specializing in 000containerization, CI/CD automation, cloud infrastructure, and scalable system design. I love bridging the gap between development and operations through clean automation and modern DevOps practices.
+I'm a passionate DevOps Engineer specializing in containerization, CI/CD automation, cloud infrastructure, and scalable system design. I love bridging the gap between development and operations through clean automation and modern DevOps practices.
 
 ---
 
