@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Banner Style Header -->
+<!-- Animated Banner Style Heade -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:2496ED,100:326CE5&height=200&section=header&text=Syed%20Mohsin%20Kazmi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI%2FCD%20Automation&descAlignY=58&descSize=18&descColor=c9d1d9" />
 
 <br/>
